@@ -1,0 +1,7 @@
+gTTS
+moviepy
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+tiktok-api
